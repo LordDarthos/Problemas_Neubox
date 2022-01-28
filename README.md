@@ -5,4 +5,4 @@ Los problemas resueltos en JS obtienen un archivo "text.txt" en un input y se ob
 
 El problema resuelto en python recibe los datos de un archivo "text.txt" y arroja el resultado en el archivo "textOut.txt".
 
-Para resolver los problemas se detectaron las necesidades: Leer un documento .txt, darle formato a los datos de entrada, realizar pruebas para determinar errores, establecer reglas y realizar la comparativa de los valores según se requería y generar un valor de salida.
+Para resolver los problemas se detectaron las necesidades: Leer un documento .txt, darle formato a los datos de entrada, realizar pruebas para determinar errores y establecer reglas, realizar la comparativa de los valores según se requería y generar un valor de salida.
